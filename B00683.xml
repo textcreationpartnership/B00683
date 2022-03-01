@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ane new ballet set out be ane fugitiue Scottisman that fled out of Paris at this lait murther.</title>
+            <author>Sempill, Robert, 1530?-1595.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1572</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00683</idno>
+            <idno type="STC">STC 22203</idno>
+            <idno type="STC">Interim Tract Supplement Guide Huth 50[11]</idno>
+            <idno type="EEBO-CITATION">99892883</idno>
+            <idno type="PROQUEST">ocm99892883</idno>
+            <idno type="VID">182327</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00683)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182327)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:4[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ane new ballet set out be ane fugitiue Scottisman that fled out of Paris at this lait murther.</title>
+                  <author>Sempill, Robert, 1530?-1595.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>be Robert Lekpriuik,</publisher>
+                  <pubPlace>Imprentit at Sanctandrois :</pubPlace>
+                  <date>anno. Do. 1572.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Quod Simpell.</note>
+                  <note>On the St. Bartholomew massacre. Cf. STC.</note>
+                  <note>Verse: "Now Katherine de Medicis hes maid sic a byis ..."</note>
+                  <note>Printed in two columns.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catherine de Médicis, --  Queen, consort of Henry II, King of France, 1519-1589 --  Poetry --  Early works to 1800.</term>
+               <term>St. Bartholomew's Day, Massacre of, France, 1572 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182327:1"/>
+            <!-- PDF PAGE 17 -->
+            <head>❀ ane new ballet ſet out be ane Fugitiue Scottiſman that fled out of Paris at this lait Murther.</head>
+            <lg>
+               <l>NOw Katherine de Medicis hes maid ſic a Gyis</l>
+               <l>To tary in Paris the Papiſtes ar tykit</l>
+               <l>At Baſtianes brydell howbeit ſcho denyis</l>
+               <l>Giue Mary ſlew Hary, it was not vnlykit</l>
+               <l>Ȝit a man is nane reſpectand this number</l>
+               <l>I'dar not ſay wemen hes wyte of this cummer.</l>
+            </lg>
+            <lg>
+               <l>Ȝone Maſk the Quene mother hes maid thame in France</l>
+               <l>Was maikles and ſaikles, and ſchamfully ſlane</l>
+               <l>Bot Mary conuoyit and come with ane dance</l>
+               <l>Quhill Princes in Sences was fyrit with ane trane</l>
+               <l>Baith treſſonabill murtheris, the ane and the vther</l>
+               <l>I go not in Maſking mair with the Quene Mother.</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:leaf">❧</g> Italianes ar Tyranis, and treſſonabill Tratoris:</l>
+               <l>For gyſours deuyſours, the Guyſianis ar gude</l>
+               <l>Bot Frenche men ar trew men, and not of thair natouris</l>
+               <l>Than Charlie I farlie thow drank thy awin blude</l>
+               <l>I wyte bot thy Mother wit, wemen ar vane</l>
+               <l>In greis neir to Ganȝelon nor grit Charlie Mane.</l>
+            </lg>
+            <lg>
+               <l>☞ Thy ſtyle was Treſchriſtien maiſt Criſten King</l>
+               <l>Baith hieſt and frieſt, and neiſt the Impyre</l>
+               <l>Bot now Proueſt Marſchell in playing this ſpring</l>
+               <l>And reſſoun for treſſoun prouokis God to Ire</l>
+               <l>Beleuis thow this trumprie ſall ſtabliſche thy ſtyle?</l>
+               <l>Our God is not deid ȝit, be doand ane quhyle.</l>
+            </lg>
+            <lg>
+               <l>¶ Suppois that the Papiſtes deuyſit this at Trent</l>
+               <l>To ding vs and bring vs with mony lowd lauchter</l>
+               <l>With ſic cruell Murther is Chriſt ſa content</l>
+               <l>To take the and make the ane Sanct for our ſlauchter</l>
+               <l>Albeit he correct vs, and ſcurge vs in Ire</l>
+               <l>Be war with the wand ſyne he wapis in the fyre.</l>
+            </lg>
+            <lg>
+               <l>¶ For better is pure men nor Princes periurit</l>
+               <l>Baith ſchameles and fameles, we find thame ſa fals</l>
+               <l>With ſangis lyke the Seryne our lyfis thow allurit</l>
+               <l>Ouirſylit vs begylit vs with baitis in our hals</l>
+               <l>Or as the fals Fowler his fang for to get,</l>
+               <l>Deuoiris the pure volatill he wylis to the net.</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:leaf">❧</g> In Ilis nor in Orknay, in Ireland Oneill</l>
+               <l>Thay dar not, thay gar not, thair liegis be ſtickit</l>
+               <l>Solyman, Tamerlan, nor yit the mekle Deill</l>
+               <l>Proud Pharao, nor Nero, was neuer ſa wickit</l>
+               <l>Nouther Turk nor Infidell vſis ſic thing</l>
+               <l>As be their awin burreo, being ane King.</l>
+            </lg>
+            <lg>
+               <l>☞ Baith auld men and wemen, with babis on thair breiſt</l>
+               <l>Not luking nor huking, to hurll thame in Sane</l>
+               <l>All beand murdreiſt downe, quhat do ȝe neiſt</l>
+               <l>Proceſſioun, Confeſſion, and vp Mes agane</l>
+               <l>Proud King Antiochus was ſum tyme als haly</l>
+               <l>And yit our God guſchit out the guttis of his belly</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:leaf">❧</g> Thy Syſter thou maryit, thy Saces was ſour</l>
+               <l>Sic cuikrie for luikrie was euill Interpriſit</l>
+               <l>Ȝe maid vs the Reid Freiris, and rais in an hour</l>
+               <l>Abhorring na gorring that micht be deuiſit</l>
+               <l>Thou playit the fals Hypocreit fenȝeing the fray</l>
+               <l>But inwart ane rageing wolf waitand thy pray.</l>
+            </lg>
+            <lg>
+               <l>That France was confidderat with Scotland I grant,</l>
+               <l>Baith actit, contractit, and keipit in deid</l>
+               <l>The kyndnes of Cutthrottis, we cure not to want</l>
+               <l>Denyis thame, defyis thame, and all thair fals ſeid</l>
+               <l>It was bot with honeſt men we maid the band</l>
+               <l>And thou hes left leifand bot few in that land.</l>
+            </lg>
+            <lg>
+               <l>☞ Our faith is not warldly we feir not thy braulis</l>
+               <l>Thocht hangmen ouirgang men, for gaddaring our geir</l>
+               <l>Ȝe kill bot the Carcaſe, ȝe get not our Saulis</l>
+               <l>Not douting our ſhouting is hard in Goddis eir</l>
+               <l>The ſame God from Pharo defendit his pepill</l>
+               <l>And not ȝone round Robene that ſtandis in ȝour ſtepill.</l>
+            </lg>
+            <lg>
+               <l>¶ Now wyſe Quene Elizabeth luik to your ſelf</l>
+               <l>Diſpite them, and wryte thame, ane bill of defyance</l>
+               <l>The papiſtis and Spanȝards, hes partit ȝour pelf</l>
+               <l>As newly and trewly was tald me thir tythance</l>
+               <l>Beleue thay to land heir, and get vs fornocht</l>
+               <l>Will ȝe do as we do, it ſalbe deir bocht.</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:leaf">❧</g> Giue pleis God we gre ſa, and hald vs togidder</l>
+               <l>Baith ſurely and ſturely, and ſtoutly gainſtand thame</l>
+               <l>They culd not weill conqueis vs, culd ȝe conſidder</l>
+               <l>For our men are dour men, and likis weill to land thame</l>
+               <l>Quhen Ceſar him ſelf was chaiſt, haue ȝe forȝet</l>
+               <l>And baith the Realmes be aggreit, tak that thay get.</l>
+            </lg>
+            <lg>
+               <l>¶ For better it is to fecht it, defendant our lyfis</l>
+               <l>With ſpeir men and weir men, and ventour our ſellis</l>
+               <l>Nor for to ſe frenche men deflorand our wyfis</l>
+               <l>Diſplace vs, and chace vs, as thay haue done ellis</l>
+               <l>I meane quhen the Ingliſmen helpit at Leith</l>
+               <l>And gart thame gang hame agane ſpyte of thair teith.</l>
+            </lg>
+            <lg>
+               <l>¶ I cannot trow firmely that Frenchmen ar cummen</l>
+               <l>Perſayfand thame haifand, thame ſelfis into parrell</l>
+               <l>The Lord ſaue Elizabeth, thair ane gude woman</l>
+               <l>That cauldly and bauldly, debait will our quarrell</l>
+               <l>With men and with money, baith Armour and graith</l>
+               <l>As ſcho hes befoir tyme defendit this Faith.</l>
+            </lg>
+            <lg>
+               <l>☞ Thocht France for thair falſet be drownit in da<g ref="char:cmbAbbrStroke">̄</g>geris</l>
+               <l>For cauſis and pauſis thay plait into Pareis</l>
+               <l>Ȝit <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ar in war eſtait waitand on ſtrangeris</l>
+               <l>No<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> gyding deuyding, our awin men from Mareis</l>
+               <l>Go weid the calf from the corn, calk me thair dures</l>
+               <l>And ſlay or ȝe be ſlane, gif ſic thing occures.</l>
+            </lg>
+            <lg>
+               <l>☞ Bot how can ȝe traiſt thame, that trumpit ȝow ellis</l>
+               <l>Decoir thame, do for thame, or foſter thair ſeid</l>
+               <l>And thay may anis ſe thair time, tent to ȝour ſellis</l>
+               <l>Baith haitfull, diſſaitfull, ȝe deill with in deid</l>
+               <l>Anis wod and ay the war, with quhat ȝe do</l>
+               <l>And mak thame faſt in the ruit gif thay cum to.</l>
+            </lg>
+            <lg>
+               <l>¶ God blis ȝow my brether, and biddis ȝow gudnicht</l>
+               <l>Obey God, go ſay God, with prayer and faſting</l>
+               <l>Chriſt keip thie pure Ile of ouris in the auld rihct</l>
+               <l>Defend vs and ſend vs, the life Euerlaſting</l>
+               <l>The Lord ſend vs quyetnes, and keip our ȝoung king</l>
+               <l>The Quene of Inglands Maieſtie, &amp; lang mot yai Ring.</l>
+            </lg>
+            <closer>
+               <signed>☞Quod Simpell.</signed>
+            </closer>
+            <trailer>¶ FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprentit at Sanctandrois be Robert Lekpriuik. Anno. Do. <hi>1572.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
